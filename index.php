@@ -1,4 +1,4 @@
 <?php
-// Opening http://localhost/1tap-mvc/ sends you to the real site in /public.
-header('Location: public/');
+// Opening http://localhost/onetapv2/ takes you to the home page.
+header('Location: controllers/home.php');
 exit;

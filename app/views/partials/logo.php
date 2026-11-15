@@ -1,1 +1,0 @@
-<span class="logo<?= !empty($white) ? ' white' : '' ?>">1TAP<svg viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="M8 9a8 8 0 0 1 0 12"/><path d="M14 5a14 14 0 0 1 0 20"/><path d="M20 2a19 19 0 0 1 0 26" opacity=".55"/></svg></span>
